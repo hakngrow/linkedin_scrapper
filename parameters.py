@@ -10,6 +10,7 @@ linkedin_query = 'Singapore AND "Head of Data" AND PEOPLE'
 google_chrome_driver = 'chromedriver'
 google_url = 'https://www.google.com'
 google_query = 'site:linkedin.com/in/ AND "Head of Data" AND Singapore'
+#google_query = 'site:linkedin.com/jobs/ AND "Data Scienist" AND Singapore'
 google_scrape_limit = 3
 
 # File where scraped profile information will be stored
