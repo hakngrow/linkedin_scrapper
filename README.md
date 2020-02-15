@@ -45,6 +45,5 @@ same name exist, it will be overwritten.
 
 ### Credits
 
-Use Selenium & Python to scrape LinkedIn profiles, by
-[David Crave](https://www.linkedin.com/pulse/how-easy-scraping-data-from-linkedin-profiles-david-craven/)
-
+[Use Selenium & Python to scrape LinkedIn profiles](https://www.linkedin.com/pulse/how-easy-scraping-data-from-linkedin-profiles-david-craven/)
+, by David Craven
