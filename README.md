@@ -30,7 +30,7 @@ different. This script only does scrapping from the 'logined' profile page.
 - `google_query` contains the query string to be used with Google Search to query LinkedIn profiles of interest.
 `site:linkedin.com/in/` tells Google Search to look for LinkedIn profiles, `"Head of Data"` is the job position/title 
 of the profile, `Singapore` is the location.
-- You customized the search by adding more job positions, like "Data Scientists", to the query string, connected by the
+- You customized the search by adding more job positions, like "Data Scientist", to the query string, connected by the
 `AND` operator. For more information on how to construct Google Search queries, refer to the 
 [Search Query Language](https://developers.google.com/issue-tracker/concepts/search-query-language) documentation.
 - You can configure the scrapper to search of LinkedIn jobs by using `site:linkedin.com/jobs/` and the job title of 
