@@ -2,8 +2,8 @@
 
 # Linkedin paramters
 linkedin_url = 'https://www.linkedin.com'
-linkedin_login_id = 'hakngrow@gmail.com'
-linkedin_password = '1903Knyt'
+linkedin_login_id = '<Your Login Id>'
+linkedin_password = '<Your Login Password>'
 linkedin_query = 'Singapore AND "Head of Data" AND PEOPLE'
 
 # Google paramters
