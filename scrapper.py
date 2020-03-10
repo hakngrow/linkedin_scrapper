@@ -60,7 +60,7 @@ def google_search():
     while len(linkedin_urls) < parameters.google_scrape_limit:
 
         # Locate DIV web elements that contains the LinkedIn profiles
-        results_div = _DRIVER_CHROME.find_elements_by_class_name('g')
+        results_div = _DRIVER_CHROME.find_elements_by_class_name('r')
 
         # Extract the url link embedded with the DIV element
         urls = [div.find_element_by_tag_name('a').get_attribute('href') for div in results_div]
